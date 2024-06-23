@@ -1,0 +1,14 @@
+C:\Users\mehme\source\repos\vize\ornek1\bin\Debug\netcoreapp3.1\ornek1.exe
+C:\Users\mehme\source\repos\vize\ornek1\bin\Debug\netcoreapp3.1\ornek1.deps.json
+C:\Users\mehme\source\repos\vize\ornek1\bin\Debug\netcoreapp3.1\ornek1.runtimeconfig.json
+C:\Users\mehme\source\repos\vize\ornek1\bin\Debug\netcoreapp3.1\ornek1.runtimeconfig.dev.json
+C:\Users\mehme\source\repos\vize\ornek1\bin\Debug\netcoreapp3.1\ornek1.dll
+C:\Users\mehme\source\repos\vize\ornek1\bin\Debug\netcoreapp3.1\ornek1.pdb
+C:\Users\mehme\source\repos\vize\ornek1\obj\Debug\netcoreapp3.1\ornek1.csproj.AssemblyReference.cache
+C:\Users\mehme\source\repos\vize\ornek1\obj\Debug\netcoreapp3.1\ornek1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehme\source\repos\vize\ornek1\obj\Debug\netcoreapp3.1\ornek1.AssemblyInfoInputs.cache
+C:\Users\mehme\source\repos\vize\ornek1\obj\Debug\netcoreapp3.1\ornek1.AssemblyInfo.cs
+C:\Users\mehme\source\repos\vize\ornek1\obj\Debug\netcoreapp3.1\ornek1.csproj.CoreCompileInputs.cache
+C:\Users\mehme\source\repos\vize\ornek1\obj\Debug\netcoreapp3.1\ornek1.dll
+C:\Users\mehme\source\repos\vize\ornek1\obj\Debug\netcoreapp3.1\ornek1.pdb
+C:\Users\mehme\source\repos\vize\ornek1\obj\Debug\netcoreapp3.1\ornek1.genruntimeconfig.cache
